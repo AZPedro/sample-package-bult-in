@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  AZSample
+//  Sample
 //
-//  Created by Pedro Azevedo on 15/12/22.
+//  Created by Pedro Azevedo on 19/12/22.
 //
 
 import UIKit

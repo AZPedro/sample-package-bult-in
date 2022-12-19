@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  AZSample
+//  Sample
 //
-//  Created by Pedro Azevedo on 15/12/22.
+//  Created by Pedro Azevedo on 19/12/22.
 //
 
 import UIKit
@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        // Do any additional setup after loading the view.
+        print(AZPackage().text)
     }
 }
 
